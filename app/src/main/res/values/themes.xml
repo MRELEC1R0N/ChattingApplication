@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ChattingApplication" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="android:windowBackground">#111318</item>
+        <item name = "windowNoTitle">true</item>
+    </style>
+
+
+</resources>
